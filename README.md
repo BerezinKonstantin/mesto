@@ -46,9 +46,14 @@
 ## Установка проекта
 
 - Скачать или клонировать репозиторий
-  git clone https://github.com/BerezinKonstantin/mesto.git
+
+    git clone https://github.com/BerezinKonstantin/mesto.git
+
 - Установить [Node.js](https://nodejs.org/) в случае его отсутствия.
 - Установить зависимости
-  npm i
+
+    npm i
+
 - Запуск в режиме разработки, с хот-релоудом
-  npm run dev
+
+    npm run dev
